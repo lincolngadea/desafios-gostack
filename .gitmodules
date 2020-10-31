@@ -1,8 +1,8 @@
-[submodule "desafio-conceitos-node"]
-	path = desafio-conceitos-node
+[submodule "desafio-coneitos-nodeJS"]
+	path = desafio-coneitos-nodeJS
 	url = https://github.com/lincolngadea/desafio2-nodejs-bootcamp
-[submodule "desafio-conceitos-reactjs"]
-	path = desafio-conceitos-reactjs
+[submodule "desafio-conceitos-reactJS"]
+	path = desafio-conceitos-reactJS
 	url = https://github.com/lincolngadea/desafio3-reactjs-bootcamp
 [submodule "desafio-conceitos-react-native"]
 	path = desafio-conceitos-react-native
