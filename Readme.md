@@ -25,13 +25,13 @@ ___
 
 <br>
 
-## :information_source: Sobre
+## :rocket: Sobre :rocket:
 
 Repositório dedicado a guardar os desafios realizados no Bootcamp GoStack.
 
-## :book: Desafios
+## :rocket: Desafios :rocket:
 
-- [Desafio 01 - Organizando seus estudos](https://www.notion.so/f99e00cfffc7416fbaafd6a6b805d441?v=f130b8e037204153af459b3f5ec57fad)
+- [Desafio 01 - Cronograma de Estudos](https://www.notion.so/f99e00cfffc7416fbaafd6a6b805d441?v=f130b8e037204153af459b3f5ec57fad)
 - [Desafio 02 - Conceitos de Node.js](https://github.com/lincolngadea/desafio2-nodejs-bootcamp)
 - [Desafio 03 - Conceitos de ReactJS](https://github.com/lincolngadea/desafio3-reactjs-bootcamp)
 - [Desafio 04 - Conceitos de React Native](https://github.com/lincolngadea/desafio4-reactnative-bootcamp)
