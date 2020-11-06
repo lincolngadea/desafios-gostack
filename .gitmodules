@@ -7,3 +7,6 @@
 [submodule "desafio-conceitos-react-native"]
 	path = desafio-conceitos-react-native
 	url = https://github.com/lincolngadea/desafio4-reactnative-bootcamp
+[submodule "desafio-fundamentos-NodeJS"]
+	path = desafio-fundamentos-NodeJS
+	url = https://github.com/lincolngadea/desafio5-nodeJS-bootcamp.git
